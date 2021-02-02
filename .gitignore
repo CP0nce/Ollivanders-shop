@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Maven
+target/
+
 # C extensions
 *.so
 
@@ -102,3 +105,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# IDE
+.classpath
+.project
+/bin/
+
+# VSCode
+.vscode
+
+# Library
+.settings/
